@@ -1,0 +1,11 @@
+{
+    "origins": [
+        "https://staging.production-ready.de",
+        "https://www.production-ready.de",
+        "https://production-ready.de"
+    ],
+    "originsRegex": [
+        "http://localhost:[0-9]+",
+        "http://127.0.0.1:[0-9]+"
+    ]
+}
